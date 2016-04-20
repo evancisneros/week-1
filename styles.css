@@ -1,5 +1,5 @@
 
-@import 'assets/fonts/hitchcock/stylesheet.css';
+
 
 * {
 	position: relative;
@@ -38,7 +38,7 @@ header::before {
 	top: 0;
 	background-color: lightblue;
 	transform: rotate(-0.5deg) skewX(55deg);
-  
+
 
 
 }
